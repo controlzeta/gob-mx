@@ -1,6 +1,6 @@
 ﻿@model GobMxDummy.Models.LocalPasswordModel
 @{
-    ViewBag.Title = "Manage Account";
+    ViewBag.Title = "Opciones de Cuenta";
 }
 
 <hgroup class="title">
@@ -9,7 +9,7 @@
 
 <p class="message-success">@ViewBag.StatusMessage</p>
 
-<p>You're logged in as <strong>@User.Identity.Name</strong>.</p>
+<p>Tu cuenta es <strong>@User.Identity.Name</strong></p>
 
 @if (ViewBag.HasLocalPassword)
 {

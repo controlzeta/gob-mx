@@ -1,35 +1,54 @@
 ﻿@model GobMxDummy.Models.RegisterModel
 @{
-    ViewBag.Title = "Register";
+    ViewBag.Title = "Registro de usuario";
 }
 
 <hgroup class="title">
     <h1>@ViewBag.Title.</h1>
-    <h2>Create a new account.</h2>
+    <h2>Crea una nueva cuenta.</h2>
 </hgroup>
 
 @using (Html.BeginForm()) {
     @Html.AntiForgeryToken()
-    @Html.ValidationSummary()
-
-    <fieldset>
-        <legend>Registration Form</legend>
-        <ol>
-            <li>
-                @Html.LabelFor(m => m.UserName)
-                @Html.TextBoxFor(m => m.UserName)
-            </li>
-            <li>
-                @Html.LabelFor(m => m.Password)
-                @Html.PasswordFor(m => m.Password)
-            </li>
-            <li>
-                @Html.LabelFor(m => m.ConfirmPassword)
-                @Html.PasswordFor(m => m.ConfirmPassword)
-            </li>
-        </ol>
-        <input type="submit" value="Register" />
-    </fieldset>
+    @Html.ValidationSummary(true)
+    <div class="row" style="padding-bottom:25px;">
+        <div class="col-md-8">
+            <div>
+                
+            </div>
+            <div class="col-md-12" style="padding-bottom:5px;">
+                <div class="form-group">
+                    <label class="col-sm-3 control-label" for="email-03">@Html.LabelFor(m => m.UserName)</label>
+                    <div class="col-sm-9">
+                        @Html.TextBoxFor(m => m.UserName, new { @class = "form-control", @placeholder = "Correo eléctronico" })
+                        <span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" style="padding-bottom:5px;">
+                <div class="form-group">
+                    <label class="col-sm-3 control-label" for="password-03">@Html.LabelFor(m => m.Password)</label>
+                    <div class="col-sm-9">
+                        @Html.PasswordFor(m => m.Password, new { @class = "form-control", @placeholder = "Password" })
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12" style="padding-bottom:5px;">
+                <div class="form-group">
+                    <label class="col-sm-3 control-label" for="password-03">@Html.LabelFor(m => m.ConfirmPassword)</label>
+                    <div class="col-sm-9">
+                        @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control", @placeholder = "Confirma tu Password" })
+                    </div>
+                </div>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-offset-3 col-sm-9">
+                    <button class="btn btn-primary pull-right" type="submit">Registrate</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
 }
 
 @section Scripts {

@@ -29,27 +29,65 @@
                                 <ul class="nav navbar-nav navbar-right">
                                     @Html.Partial("_LoginPartial")
                                     <li class="dropdown">
-                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Usuario <span class="caret"></span></a>
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Ligas Gob Mx <span class="caret"></span></a>
                                         <ul class="dropdown-menu" role="menu">
-                                            <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                                            <li>@Html.ActionLink("About", "About", "Home")</li>
-                                            <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                                            <li><a href="http://www.gob.mx/guias/grafica" target="_blank">Guía gráfica base</a></li>
+                                            <li><a href="https://framework-gb.cdn.gob.mx/assets/documents/manual-de-uso.pdf" target="_blank">Manual de uso</a></li>
+                                            <li><a href="http://www.gob.mx/guias/demo" target="_blank"> Demo de formulario</a></li>
                                             <li class="divider"></li>
-                                            <li><a href="#">Salir</a></li>
+                                            <li><a href="http://wikiguias.cidge.gob.mx:8080/mediawiki/index.php/Gu%C3%ADa_de_implementaci%C3%B3n_Digital_Analytix" target="_blank">Guía ComScore</a></li>
+                                            <li>
+                                                <a href="http://wikiguias.cidge.gob.mx:8080/mediawiki/index.php?title=Est%C3%A1ndar_T%C3%A9cnico_para_el_Formato_%C3%9Anico_de_Tr%C3%A1mites_y_Servicios_en_la_Plataforma_gob.mx#Definici.C3.B3n_de_componentes_para_los_formularios_Web"
+                                                   target="_blank">Estándar técnico de datos</a>
+                                            </li>
+                                            <li><a href="http://wikiguias.cidge.gob.mx:8080/mediawiki/index.php/Gu%C3%ADa_de_usuario_para_%22Herramienta_gobtools%22" target="_blank">Guía para gobtools</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Menú <span class="caret"></span></a>
+                                        <ul class="dropdown-menu" role="menu">
+                                            <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
+                                            <li>@Html.ActionLink("Formulario", "About", "Home")</li>
+                                            <li>@Html.ActionLink("Contacto", "Contact", "Home")</li>
+                                            <li class="divider"></li>
+                                            <li><a href="http://www.x1mexico.com/" target="_blank">X1 México</a></li>
                                         </ul>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </nav>
-                    <div class="row">
-                        <ol class="breadcrumb">
-                            <li><i class="icon icon-home"></i></a></li>
-                            <li>@Html.ActionLink("Inicio", "Index", "Home")</li>
-                        </ol>
+                    <div class="row breadcrumb-credentials">
+                        <div class="col-sm-8">
+                            <ol class="breadcrumb">
+                                <li><a><i class="icon icon-home"></i></a></li>
+                                @Html.MvcSiteMap().SiteMapPath()
+                            </ol>
                     </div>
+                    <div class="col-sm-4">
+                            @if (Request.IsAuthenticated)
+                            {
+                                <text>
+                                    <div class="user-credencials">
+                                        <ul class="list-unstyled">
+                                            <li>
+                                                <span class="user-credencials__name">
+                                                    @Html.ActionLink(User.Identity.Name, "Manage", "Account", routeValues: null, htmlAttributes: new { @class = "user-credencials__name", title = "Usuario" })
+                                                </span>
+                                                @using (Html.BeginForm("LogOff", "Account", FormMethod.Post, new { id = "logoutForm" }))
+                                                {
+                                                    @Html.AntiForgeryToken()
+                                                    <a class="btn btn-link pull-right" href="javascript:document.getElementById('logoutForm').submit()">Salir</a>
+                                                }
+                                            </li>
+                                            <li>Información adicional</li>
+                                        </ul>
+                                    </div>
+                                </text>
+                            }
                     </div>
-
+                </div>
+                </div>
             </div>
         </header>
         <div id="body" class="container">
@@ -61,7 +99,7 @@
         <footer>
             <div class="content-wrapper">
                 <div class="text-center">
-                    <p>&copy; @DateTime.Now.Year - Gob Mx Dummy</p>
+                    <p>&copy; @DateTime.Now.Year - Gob Mx Template</p>
                 </div>
             </div>
         </footer>

@@ -10,21 +10,21 @@ namespace GobMxDummy.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Bienvenido a nuestra aplicación Dummy con Gob Mx.";
+            ViewBag.Message = "Bienvenido a nuestra implementación de Gob Mx.";
 
             return View();
         }
 
         public ActionResult About()
         {
-            ViewBag.Message = "Bienvenido a nuestra aplicación Dummy con Gob Mx.";
+            ViewBag.Message = "Bienvenido a nuestra implementación de Gob Mx.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Bienvenido a nuestra aplicación Dummy con Gob Mx.";
+            ViewBag.Message = "Bienvenido a nuestra implementación de Gob Mx.";
 
             return View();
         }

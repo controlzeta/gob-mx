@@ -78,3 +78,8 @@ C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\zh-Hant\System
 C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\obj\Debug\GobMxDummy.csprojResolveAssemblyReference.cache
 C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\obj\Debug\GobMxDummy.dll
 C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\obj\Debug\GobMxDummy.pdb
+C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\MvcSiteMapProvider.dll
+C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\MvcSiteMapProvider.WebActivator.dll
+C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\WebActivatorEx.dll
+C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\MvcSiteMapProvider.xml
+C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\MvcSiteMapProvider.WebActivator.xml

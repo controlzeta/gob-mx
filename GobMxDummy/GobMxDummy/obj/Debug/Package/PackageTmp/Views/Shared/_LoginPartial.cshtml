@@ -1,0 +1,9 @@
+﻿@if (Request.IsAuthenticated) {
+    <text>
+       
+        }
+    </text>
+} else {
+        <li>@Html.ActionLink("Registrate", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Entrar", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+}

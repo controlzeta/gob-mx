@@ -17,9 +17,16 @@ namespace GobMxDummy.Controllers
 
         public ActionResult About()
         {
+            Models.MailModels mail = new Models.MailModels();
             ViewBag.Message = "Bienvenido a nuestra implementación de Gob Mx.";
 
-            return View();
+            return View(mail);
+        }
+
+        public ActionResult EnviarNotificacion(Models.MailModels mail)
+        {
+            ViewBag.Message = mail.SendMail("Has sido seleccionado ", "Has ganado felicidades!!!", true, "http://www.x1mexico.com", "Recoge tu Premio");
+            return View("About");
         }
 
         public ActionResult Contact()

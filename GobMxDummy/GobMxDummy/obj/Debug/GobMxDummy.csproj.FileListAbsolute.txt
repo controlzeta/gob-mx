@@ -83,3 +83,5 @@ C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\MvcSiteMapProv
 C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\WebActivatorEx.dll
 C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\MvcSiteMapProvider.xml
 C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\MvcSiteMapProvider.WebActivator.xml
+C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\log4net.dll
+C:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\bin\log4net.xml

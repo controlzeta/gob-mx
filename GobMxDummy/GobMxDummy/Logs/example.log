@@ -1,0 +1,19 @@
+INFO 9 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 9 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 9 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 9 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 9 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 9 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30

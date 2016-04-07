@@ -1,5 +1,7 @@
-﻿using System;
+﻿using log4net;
+using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Net.Mail;
 using System.Text;
@@ -9,11 +11,18 @@ namespace GobMxDummy.Models
 {
     public class MailModels
     {
+        //Log4Net cambiar TypeOf por la clase que estes usando
+        private static readonly ILog log = LogManager.GetLogger(typeof(MailModels).FullName);
+
         public static int puerto = 587;
         public static string host = "smtp.gmail.com";
         public LinkedResource inlineLogo;
 
         public string sender { get; set; }
+        [Required(ErrorMessage="El correo eléctronico es requerido.")]
+        [Display(Name = "Destinatario")]
+        [StringLength(60, MinimumLength = 3)]
+        [RegularExpression(@"^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$", ErrorMessage = "Necesitas un correo eléctronico válido.")]
         public string receiver { get; set; }
         public string CC { get; set; }
         public string CCO { get; set; }
@@ -37,24 +46,30 @@ namespace GobMxDummy.Models
         {
             try
             {
-                //receiver = "francisco.arroyo@controlzeta.com.mx";
-                SmtpClient cliente = CreaCliente();
-                MailMessage correo = new MailMessage();
-                correo.From = new MailAddress("stps@prenat.com.mx", "Secretaria del Trabajo y Previsión Social");
-                correo.To.Add(receiver);
-                correo.BodyEncoding = UTF8Encoding.UTF8;
-                correo.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure;
-                correo.IsBodyHtml = true;
-                correo.Subject = Subject;
-                correo.Body = CreateBody(Subject, Body, btn, btnLink, btnText);
-                var view = AlternateView.CreateAlternateViewFromString(body, null, "text/html");
-                view.LinkedResources.Add(inlineLogo);
-                correo.AlternateViews.Add(view);
-                cliente.Send(correo);                
+                if (receiver == null || receiver == "")
+                    return "Necesitas escribir el correo electrónico";
+                else
+                {
+                    SmtpClient cliente = CreaCliente();
+                    MailMessage correo = new MailMessage();
+                    correo.From = new MailAddress("stps@prenat.com.mx", "Secretaria del Trabajo y Previsión Social");
+                    correo.To.Add(receiver);
+                    correo.BodyEncoding = UTF8Encoding.UTF8;
+                    correo.DeliveryNotificationOptions = DeliveryNotificationOptions.OnFailure;
+                    correo.IsBodyHtml = true;
+                    correo.Subject = Subject;
+                    correo.Body = CreateBody(Subject, Body, btn, btnLink, btnText);
+                    var view = AlternateView.CreateAlternateViewFromString(body, null, "text/html");
+                    view.LinkedResources.Add(inlineLogo);
+                    correo.AlternateViews.Add(view);
+                    cliente.Send(correo);
+                }
             }
             catch (Exception ex)
             {
-                return "El mensaje no pudo ser enviado: " + ex.Message.ToString();
+                //Log4Net
+                log.Error("El envío de correos falló", ex);
+                return "El mensaje no pudo ser enviado";
             }
             return "Mensaje enviado exitosamente";
         }

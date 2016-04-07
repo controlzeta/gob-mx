@@ -1,0 +1,500 @@
+INFO 9 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 9 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 9 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 9 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 9 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 9 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 9 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 9 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 9 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 9 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 9 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 9 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 9 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 6 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 6 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 6 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 6 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 6 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 6 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 6 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 6 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 6 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 6 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 6 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 6 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 6 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 14 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 14 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 14 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 14 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 14 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 14 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 14 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 10 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 10 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 10 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 10 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 10 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 10 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 12 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 12 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 12 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 12 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 12 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 12 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 12 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 12 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 12 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 12 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 12 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 12 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 12 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 12 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 12 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 12 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 12 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 12 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 10 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 10 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 10 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 10 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 10 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 10 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 11 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 11 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 11 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 11 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 11 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 11 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 11 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 3 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 3 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 3 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 3 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 3 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 3 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 3 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 3 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 3 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 3 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 3 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 3 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 3 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 12 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 12 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 12 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 12 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 12 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 12 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 12 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+INFO 10 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 10 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 10 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 10 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 10 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 10 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 30
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 9 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 9 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 12 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 12 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 9 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 12 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 9 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 17 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 11 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 12 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 17 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 11 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 9 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 12 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 11 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+ERROR 17 GobMxDummy.Models.MailModels - El envío de correos falló
+System.ArgumentNullException: Value cannot be null.
+Parameter name: addresses
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 52
+INFO 10 GobMxDummy.Controllers.HomeController - Starting GenerateDebugLog method...
+DEBUG 10 GobMxDummy.Controllers.HomeController - No input parameters for method.
+INFO 10 GobMxDummy.Controllers.HomeController - Starting loop.
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 0
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 1
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 2
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 3
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 4
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 5
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 6
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 7
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 8
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 9
+DEBUG 10 GobMxDummy.Controllers.HomeController - Current value: 10
+INFO 10 GobMxDummy.Controllers.HomeController - Loop complete.
+INFO 10 GobMxDummy.Controllers.HomeController - GenerateDebugLog method complete.
+ERROR 10 GobMxDummy.Controllers.HomeController - Bad Juice!
+System.Exception: Evil exception test!
+   at GobMxDummy.Controllers.HomeController.GenerateDebugLog() in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Controllers\HomeController.cs:line 31
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.FormatException: An invalid character was found in the mail header: ','.
+   at System.Net.Mail.DotAtomReader.ReadReverse(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseMultipleAddresses(String data)
+   at System.Net.Mail.MailAddressCollection.ParseValue(String addresses)
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 55
+ERROR 11 GobMxDummy.Models.MailModels - El envío de correos falló
+System.FormatException: An invalid character was found in the mail header: ','.
+   at System.Net.Mail.DotAtomReader.ReadReverse(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseMultipleAddresses(String data)
+   at System.Net.Mail.MailAddressCollection.ParseValue(String addresses)
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 55
+ERROR 9 GobMxDummy.Models.MailModels - El envío de correos falló
+System.FormatException: An invalid character was found in the mail header: ','.
+   at System.Net.Mail.DotAtomReader.ReadReverse(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseMultipleAddresses(String data)
+   at System.Net.Mail.MailAddressCollection.ParseValue(String addresses)
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 55
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.FormatException: An invalid character was found in the mail header: ','.
+   at System.Net.Mail.DotAtomReader.ReadReverse(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseMultipleAddresses(String data)
+   at System.Net.Mail.MailAddressCollection.ParseValue(String addresses)
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 55
+ERROR 10 GobMxDummy.Models.MailModels - El envío de correos falló
+System.FormatException: An invalid character was found in the mail header: ','.
+   at System.Net.Mail.DotAtomReader.ReadReverse(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseMultipleAddresses(String data)
+   at System.Net.Mail.MailAddressCollection.ParseValue(String addresses)
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 55
+ERROR 9 GobMxDummy.Models.MailModels - El envío de correos falló
+System.FormatException: An invalid character was found in the mail header: ','.
+   at System.Net.Mail.DotAtomReader.ReadReverse(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseMultipleAddresses(String data)
+   at System.Net.Mail.MailAddressCollection.ParseValue(String addresses)
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 55
+ERROR 11 GobMxDummy.Models.MailModels - El envío de correos falló
+System.FormatException: An invalid character was found in the mail header: ','.
+   at System.Net.Mail.DotAtomReader.ReadReverse(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseMultipleAddresses(String data)
+   at System.Net.Mail.MailAddressCollection.ParseValue(String addresses)
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 55
+ERROR 13 GobMxDummy.Models.MailModels - El envío de correos falló
+System.FormatException: An invalid character was found in the mail header: ','.
+   at System.Net.Mail.DotAtomReader.ReadReverse(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseMultipleAddresses(String data)
+   at System.Net.Mail.MailAddressCollection.ParseValue(String addresses)
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 55
+ERROR 8 GobMxDummy.Models.MailModels - El envío de correos falló
+System.FormatException: An invalid character was found in the mail header: ','.
+   at System.Net.Mail.DotAtomReader.ReadReverse(String data, Int32 index)
+   at System.Net.Mail.MailAddressParser.ParseDomain(String data, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseAddress(String data, Boolean expectMultipleAddresses, Int32& index)
+   at System.Net.Mail.MailAddressParser.ParseMultipleAddresses(String data)
+   at System.Net.Mail.MailAddressCollection.ParseValue(String addresses)
+   at System.Net.Mail.MailAddressCollection.Add(String addresses)
+   at GobMxDummy.Models.MailModels.SendMail(String Subject, String Body, Boolean btn, String btnLink, String btnText) in c:\Users\AngelC\Documents\GitHub\gob-mx\GobMxDummy\GobMxDummy\Models\MailModels.cs:line 55

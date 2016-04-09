@@ -2,8 +2,10 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Routing;
 
 namespace GobMxDummy.Controllers
 {
@@ -42,7 +44,6 @@ namespace GobMxDummy.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Bienvenido a nuestra implementación de Gob Mx.";
-
             return View();
         }
 
@@ -50,7 +51,6 @@ namespace GobMxDummy.Controllers
         {
             Models.MailModels mail = new Models.MailModels();
             ViewBag.Message = "Bienvenido a nuestra implementación de Gob Mx.";
-
             return View(mail);
         }
 

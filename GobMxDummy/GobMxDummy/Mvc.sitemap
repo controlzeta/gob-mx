@@ -4,8 +4,9 @@
             xsi:schemaLocation="http://mvcsitemap.codeplex.com/schemas/MvcSiteMap-File-4.0 MvcSiteMapSchema.xsd">
 
   <mvcSiteMapNode title="Inicio" controller="Home" action="Index">
-    <mvcSiteMapNode title="Formulario" controller="Home" action="About"/>
+    <mvcSiteMapNode title="Notificaciones" controller="Home" action="About"/>
     <mvcSiteMapNode title="Contacto" controller="Home" action="Contact"/>
+    <mvcSiteMapNode title="Formulario" controller="Home" action="Formulario"/>
     <mvcSiteMapNode title="Cuenta de Usuario" controller="Account" action="Manage"/>
     <mvcSiteMapNode title="Login" controller="Account" action="Login"/>
     <mvcSiteMapNode title="Registro" controller="Account" action="Register"/>

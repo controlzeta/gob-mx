@@ -47,6 +47,20 @@ namespace GobMxDummy.Controllers
             return View();
         }
 
+        public ActionResult Formulario()
+        {
+            Models.FormularioModels m = new Models.FormularioModels();
+            ViewBag.Message = "Bienvenido a nuestra implementación de Gob Mx.";
+            return View( m );
+        }
+
+        public ActionResult Insert(Models.FormularioModels m)
+        {
+            ViewBag.Message = "Bienvenido a nuestra implementación de Gob Mx.";
+            return View("Formulario");
+        }
+
+
         public ActionResult About()
         {
             Models.MailModels mail = new Models.MailModels();

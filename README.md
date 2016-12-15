@@ -1,5 +1,5 @@
 # gob-mx
-Implementación de estilos de gob.mx
+<h2>Implementación de estilos de gob.mx</h2>
 
 Con el objetivo de estandarizar la estructura de los contenidos en las dependencias, se ha realizado el siguiente documento, que funciona como una guía compuesta por un conjunto de elementos específicos que se deben de cumplir al momento de realizar la maquetación de los trámites en línea.
 
@@ -9,5 +9,7 @@ Mas Info aquí:<br>
 http://www.gob.mx/guias/grafica <br>
 
 Instalación de Ambiente Pruebas  <br>
-Para la hoja de estilos, la ruta en ambiente prueba será la siguiente: https://framework-gb.cdn.gob.mx/qa/assets/styles/main.css  <br>
-Para el archivo javascript, la ruta en ambiente prueba será el siguiente: https://framework-gb.cdn.gob.mx/qa/gobmx.js <br>
+Para la hoja de estilos, la ruta en ambiente prueba será la siguiente: <br> 
+https://framework-gb.cdn.gob.mx/qa/assets/styles/main.css  <br>
+Para el archivo javascript, la ruta en ambiente prueba será el siguiente: <br>
+https://framework-gb.cdn.gob.mx/qa/gobmx.js <br>

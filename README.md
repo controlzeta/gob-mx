@@ -5,9 +5,9 @@ Con el objetivo de estandarizar la estructura de los contenidos en las dependenc
 
 La gráfica base sirve como referencia para organizar la información y la forma en la que esta estará disponible, para facilitar a nuestros usuarios que accedan de manera sencilla a todo el contenido que solicite.
 
-Mas Info aquí:
-http://www.gob.mx/guias/grafica
+Mas Info aquí:<br>
+http://www.gob.mx/guias/grafica <br>
 
-Instalación de Ambiente Pruebas
-Para la hoja de estilos, la ruta en ambiente prueba será la siguiente: https://framework-gb.cdn.gob.mx/qa/assets/styles/main.css
-Para el archivo javascript, la ruta en ambiente prueba será el siguiente: https://framework-gb.cdn.gob.mx/qa/gobmx.js
+Instalación de Ambiente Pruebas  <br>
+Para la hoja de estilos, la ruta en ambiente prueba será la siguiente: https://framework-gb.cdn.gob.mx/qa/assets/styles/main.css  <br>
+Para el archivo javascript, la ruta en ambiente prueba será el siguiente: https://framework-gb.cdn.gob.mx/qa/gobmx.js <br>
